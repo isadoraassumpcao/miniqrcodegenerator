@@ -11,13 +11,16 @@ Simple python script where you can generate a customized qr code with any URL, c
 Required module: pip install qrcode[pil]
 
 ## How to use it
-1- Clone or download this repository
-2- Download the required module
-3- Run your script
-4- Provide website URL, colors and file's name
-5- Your generated QR code will be saved in the same folder (directory) where your Python script is located and running.
+1- Clone or download this repository  
+2- Download the required module  
+3- Run your script  
+4- Provide website URL, colors and file's name  
+5- Your generated QR code will be saved in the same folder (directory) where your Python script is located and running.  
 
 ## Example:
+This is an example qr code I generated to test
+![Example Qr code](elsewherechallenge.png)
+
 
 
 
