@@ -19,6 +19,8 @@ Required module: pip install qrcode[pil]
 
 ## Example:
 This is an example qr code I generated to test
+
+
 ![Example Qr code](elsewherechallenge.png)
 
 
